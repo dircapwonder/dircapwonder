@@ -2,7 +2,7 @@
 
 I build small Python projects that automate things, talk to APIs, and process data and images. I like turning an idea into a working tool, from web scraping and email automation to desktop apps and computer vision.
 
-## 🛠️ What I Work With
+## What I Work With
 
 - **Language:** Python
 - **Web & APIs:** `requests`, BeautifulSoup, CoinMarketCap API, OpenWeatherMap API
@@ -19,13 +19,13 @@ I build small Python projects that automate things, talk to APIs, and process da
 | [**Daily-Web-Report-Mailer**](https://github.com/dircapwonder/Daily-Web-Report-Mailer) | Scrapes stock quote data into a daily CSV and emails the report via SMTP. | Python, BeautifulSoup, smtplib |
 | [**Face-Detection**](https://github.com/dircapwonder/Face-Detection) | Detects faces in single or multiple images using a Haar Cascade classifier. | Python, OpenCV |
 
-## 🎯 Currently
+## Currently
 
 - Polishing my existing projects with better documentation
 - Exploring more ways to automate everyday tasks with Python
 
-<!-- Optional: add your contact links here, for example:
-## 📫 Reach Me
-- LinkedIn: https://linkedin.com/in/your-name
-- Email: your-email@example.com
--->
+
+## Reach Me
+- LinkedIn: https://www.linkedin.com/in/dircapwonder/
+- Email: ergunali16@gmail.com
+
