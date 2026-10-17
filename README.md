@@ -18,6 +18,7 @@ I build small Python projects that automate things, talk to APIs, and process da
 | [**Coin-Market-Track-App**](https://github.com/dircapwonder/Coin-Market-Track-App) | Desktop crypto portfolio tracker with live prices and profit/loss calculation. | Python, Tkinter, SQLite, CoinMarketCap API |
 | [**Daily-Web-Report-Mailer**](https://github.com/dircapwonder/Daily-Web-Report-Mailer) | Scrapes stock quote data into a daily CSV and emails the report via SMTP. | Python, BeautifulSoup, smtplib |
 | [**Face-Detection**](https://github.com/dircapwonder/Face-Detection) | Detects faces in single or multiple images using a Haar Cascade classifier. | Python, OpenCV |
+| [**Simple-Password-Generator**](https://github.com/dircapwonder/Simple-Password-Generator) | Two small Python scripts that generate passwords: a random one and a more readable, word-based one. | Python, secrets |
 
 ## Currently
 
