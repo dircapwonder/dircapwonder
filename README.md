@@ -10,7 +10,7 @@ I build small Python projects that automate things, talk to APIs, and process da
 - **Images & Vision:** Pillow, OpenCV
 - **Automation:** SMTP email, scheduled scripts, PyInstaller
 
-## 🚀 Projects
+## Projects
 
 | Project | Description | Tech |
 |---|---|---|
