@@ -5,7 +5,7 @@ I build small Python projects that automate things, talk to APIs, and process da
 ## What I Work With
 
 - **Language:** Python
-- **Web & APIs:** `requests`, BeautifulSoup, CoinMarketCap API, OpenWeatherMap API
+- **Web & APIs:** `requests`, BeautifulSoup, CoinMarketCap API, OpenWeatherMap API, Tinify API
 - **Desktop & Data:** Tkinter, SQLite
 - **Images & Vision:** Pillow, OpenCV
 - **Automation:** SMTP email, scheduled scripts, PyInstaller
@@ -19,7 +19,7 @@ I build small Python projects that automate things, talk to APIs, and process da
 | [**Daily-Web-Report-Mailer**](https://github.com/dircapwonder/Daily-Web-Report-Mailer) | Scrapes stock quote data into a daily CSV and emails the report via SMTP. | Python, BeautifulSoup, smtplib |
 | [**Face-Detection**](https://github.com/dircapwonder/Face-Detection) | Detects faces in single or multiple images using a Haar Cascade classifier. | Python, OpenCV |
 | [**Simple-Password-Generator**](https://github.com/dircapwonder/Simple-Password-Generator) | Two small Python scripts that generate passwords: a random one and a more readable, word-based one. | Python, secrets |
-
+| [**Tinify-Image-Compressor**](https://github.com/dircapwonder/Tinify-Image-Compressor) | Desktop app that compresses and resizes JPG, PNG and WebP images with the TinyPNG API. Also available as a standalone Windows .exe. | Python, Tkinter, Tinify API, PyInstaller |
 ## Currently
 
 - Polishing my existing projects with better documentation
