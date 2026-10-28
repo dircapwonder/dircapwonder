@@ -27,6 +27,8 @@ I build small Python projects that automate things, talk to APIs, and process da
 
 
 ## Reach Me
-- LinkedIn: https://www.linkedin.com/in/dircapwonder/
-- Email: ergunali16@gmail.com
+- LinkedIn: 
+https://www.linkedin.com/in/dircapwonder/
+- Email: 
+ergunali16@gmail.com
 
