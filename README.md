@@ -9,6 +9,7 @@ I build small Python projects that automate things, talk to APIs, and process da
 - **Desktop & Data:** Tkinter, threading, SQLite
 - **Images & Vision:** Pillow, OpenCV
 - **Automation:** SMTP email, scheduled scripts, PyInstaller
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
 
 ## Projects
 
@@ -20,10 +21,11 @@ I build small Python projects that automate things, talk to APIs, and process da
 | [**Face-Detection**](https://github.com/dircapwonder/Face-Detection) | Detects faces in single or multiple images using a Haar Cascade classifier. | Python, OpenCV |
 | [**Simple-Password-Generator**](https://github.com/dircapwonder/Simple-Password-Generator) | Two small Python scripts that generate passwords: a random one and a more readable, word-based one. | Python, secrets |
 | [**Tinify-Image-Compressor-GUI**](https://github.com/dircapwonder/Tinify-Image-Compressor-GUI) | Desktop app that compresses and resizes JPG, PNG and WebP images with the TinyPNG API. Also available as a standalone Windows .exe. | Python, Tkinter, threading, Tinify API, PyInstaller |
+| [**Basic-Titanic-Analysis**](https://github.com/dircapwonder/Basic-Titanic-Analysis) | Exploratory data analysis of the Titanic dataset: survival rates by gender, class and age group, with visualizations. My first step into data analysis. | Python, Pandas, Matplotlib, Seaborn |
 
 ## Currently
 
-- Polishing my existing projects with better documentation
+- Learning data analysis and machine learning with Python
 - Exploring more ways to automate everyday tasks with Python
 
 
